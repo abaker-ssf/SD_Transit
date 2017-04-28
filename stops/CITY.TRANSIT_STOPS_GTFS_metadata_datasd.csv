@@ -1,0 +1,10 @@
+field_name,field_val
+date_published,2016-05-13T13:54:27
+date_updated,2016-01-04T00:00:00
+dimension,2
+geometry_type,fme_point
+max_x,-116.183833399387
+max_y,33.4349841228561
+min_x,-117.580433283966
+min_y,32.539010838826
+title,CITY.TRANSIT_STOPS_GTFS
